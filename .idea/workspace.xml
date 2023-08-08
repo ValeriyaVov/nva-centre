@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fd75706-65de-417b-b788-d4a68b21b426" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vov/nvacentre/bankcards/BankCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vov/nvacentre/bankcards/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vov/nvacentre/bankcards/CreditCardWithBonus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vov/nvacentre/bankcards/DebitCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vov/nvacentre/bankcards/DebitCardWithAccumulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vov/nvacentre/bankcards/DebitCardWithCashback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/vov/nvacentre/bankcards/CreditCardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/vov/nvacentre/bankcards/CreditCardWithBonusTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/vov/nvacentre/bankcards/DebitCardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/vov/nvacentre/bankcards/DebitCardWishCashbackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/vov/nvacentre/bankcards/DebitCardWithAccumulationTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="2fd75706-65de-417b-b788-d4a68b21b426" name="Changes" comment="BankCard" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
